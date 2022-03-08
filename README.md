@@ -1,8 +1,8 @@
-Hi, I’m @Delafinn a Helpdesk Technician learning to code with python.
+Hi, ✌️ I’m @Delafinn a Helpdesk Technician learning to code with python
 
-I’m always looking for someone who is willing to show me how to be a better programer. 
+I love coffee and learning how to be a better python programer. 
 
-Always feel open to issues on any of my projects to tell me what to improve.
+Always feel open to issues or pull requests on any of my projects to tell me what to improve.
 
 ![Delafinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delafinn&show_icons=true&theme=dracula)
 
