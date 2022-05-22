@@ -4,6 +4,8 @@ I love coffee and learning how to be a better python programer.
 
 Always feel open to issues or pull requests on any of my projects to tell me what to improve.
 
+Enjoy your day!
+
 ![Delafinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delafinn&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delafinn&layout=compact&theme=dracula)](https://github.com/Delafinn/github-readme-stats)
