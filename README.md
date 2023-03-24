@@ -1,6 +1,6 @@
 Hi, ✌️ I’m @Delafinn a Helpdesk Technician learning to code with python
 
-I love coffee and learning how to be a better python programer. 
+I love coffee and learning how to be a better python programmer. 
 
 Always feel open to issues or pull requests on any of my projects to tell me what to improve.
 
