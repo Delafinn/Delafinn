@@ -4,7 +4,7 @@ Desktop Support Technician
 Hi, ✌️ I’m @Delafinn a Helpdesk Technician learning to code with python I love coffee and learning how to be a better python programmer. Always feel open to issues or pull requests on any of my projects to tell me what to improve. Enjoy your day!
 
 * 🌍  I'm based in Utah
-* 🧠  I'm learning Jira Administration and Day to Day work Automations to improve my efficiency.
+* 🧠  I'm learning Day to Day work Automations to improve my efficiency.
 * ⚡  I'm currently reading how to automate the boring stuff with python. 
 ### Languages
 <a href="https://github.com/delafinn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delafinn&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
