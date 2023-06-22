@@ -15,7 +15,7 @@ Hi, ✌️ I’m @Delafinn a Helpdesk Technician learning to code with python I 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/delafinn"><img src="https://github-readme-stats.vercel.app/api?username=delafinn&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=64748b&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true&include_all_commits=true" alt="delafinn's GitHub stats" /></a>
+<a href="http://www.github.com/delafinn"><img src="https://github-readme-stats.vercel.app/api?username=delafinn&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=64748b&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="delafinn's GitHub stats" /></a>
 
 <a href="http://www.github.com/delafinn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=delafinn&stroke=64748b&background=181824&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
