@@ -1,7 +1,7 @@
 Desktop Support Technician
 --------------------------
 
-Hi, ✌️ I’m @Delafinn a Helpdesk Technician learning to code with python I love coffee and learning how to be a better python programmer. Always feel open to issues or pull requests on any of my projects to tell me what to improve. Enjoy your day!
+Hi, ✌️ I’m @Delafinn a Database Administrator! I love coffee and learning how to be a better programmer/script writer. Always feel open to issues or pull requests on any of my projects to tell me what to improve. Enjoy your day!
 
 * 🌍  I'm based in Utah
 * 🧠  I'm learning Day to Day work Automations to improve my efficiency.
