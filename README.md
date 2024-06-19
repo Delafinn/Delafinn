@@ -1,6 +1,3 @@
-Desktop Support Technician
---------------------------
-
 Hi, ✌️ I’m @Delafinn a Database Administrator! I love coffee and learning how to be a better programmer/script writer. Always feel open to issues or pull requests on any of my projects to tell me what to improve. Enjoy your day!
 
 * 🌍  I'm based in Utah
